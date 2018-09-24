@@ -1,6 +1,6 @@
 # multithreading-spider
 ----
-### python实现的多线程爬虫 【代码质量规范性高】
+### python实现的简易版多线程爬虫 
 	根据配置文件来完成爬取web内容
 ```python
 程序运行:
